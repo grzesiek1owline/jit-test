@@ -1,0 +1,16 @@
+body {
+  @apply font-sans;
+}
+
+.brand {
+  @apply text-3xl font-medium text-indigo-500;
+}
+
+body {
+  background: green;
+}
+
+button {
+  width: 200px;
+  border: 1px solid red;
+}
